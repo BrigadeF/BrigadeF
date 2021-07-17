@@ -18,7 +18,7 @@ Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoind
 🔎 From [@FrapsTM](https://github.com/FrapseTM)
 🔎 From [@Vesah](https://github.com/Vesah)
 �
-
+<p align="center">
 
 🔎 From [@4po](https://github.com/4po)
 </a>
