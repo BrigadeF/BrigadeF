@@ -10,7 +10,6 @@ Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoind
 <h1 align="center">Hi there, thanks you for visiting</h1>
 <p align="center">
 �
-<p align="center">
 🔎 From [@4po](https://github.com/4po)
 🔎 From [@BF4Cypher](https://github.com/BF4Cypher)
 🔎 From [@BF4Default](https://github.com/BF4Default)
