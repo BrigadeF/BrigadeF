@@ -23,4 +23,8 @@ Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoind
 <p align="center">
 �
 
+https://github.com/brigadefantome
+
+    --- Github de la  Brigade.
+
 
