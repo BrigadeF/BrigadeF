@@ -9,7 +9,6 @@ Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoind
 <p align="center">
 ─────────────────────────────────────
 <br>
-<p align="center">
 �
 🔎 From [@4po](https://github.com/4po)
 🔎 From [@BF4Cypher](https://github.com/BF4Cypher)
