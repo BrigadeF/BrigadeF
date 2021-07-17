@@ -20,7 +20,7 @@ Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoind
 🕸 | [@Vesah](https://github.com/Vesah)<p align="center">
 �
 
-🔎 From [@4po](https://github.com/4po)
+🔎 From 
 </a>
 https://github.com/brigadefantome
 
