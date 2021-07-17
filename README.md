@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @BrigadeF
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Bonjour à tous je vous présente la team discord Brigade Fantôme.
+alors nos objectifs.
+Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoindre vous pouvez dm
 
-<!---
-BrigadeF/BrigadeF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+| @🕸 | @4po 🕸
+| @🕸 | @BF4Default 🕸
+| @🕸 | @BF4Cypher 🕸
+| @🕸 | Fraps 🕸
+| @🕸 | Vesah 🕸
