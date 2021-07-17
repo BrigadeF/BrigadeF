@@ -2,7 +2,7 @@ Bonjour à tous je vous présente la team discord Brigade Fantôme.
 alors nos objectifs.
 Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoindre vous pouvez dm
 
-<p align="center"><img src="" width="2000"> 
+<p align="center"><img src="https://64.media.tumblr.com/2350f50437f89d6a3327b5f44d80d33c/ed4bcc2fbb22d0a3-5b/s540x810/fcf58de2b1cc03bb8f73556382a9f10d7f5b95cb.gifv" width="2000"> 
 
 <p align="center">
 ─────────────────────────────────────
