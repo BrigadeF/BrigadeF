@@ -12,11 +12,11 @@ Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoind
 <br>
 
 �
-🔎 From [@4po](https://github.com/4po)
-🔎 From [@BF4Cypher](https://github.com/BF4Cypher)
-🔎 From [@BF4Default](https://github.com/BF4Default)
-🔎 From [@FrapsTM](https://github.com/FrapseTM)
-🔎 From [@Vesah](https://github.com/Vesah)
+<h1 align="center"🔎 From [@4po](https://github.com/4po)
+<h1 align="center"🔎 From [@BF4Cypher](https://github.com/BF4Cypher)
+<h1 align="center"🔎 From [@BF4Default](https://github.com/BF4Default)
+<h1 align="center"🔎 From [@FrapsTM](https://github.com/FrapseTM)
+<h1 align="center"🔎 From [@Vesah](https://github.com/Vesah)
 �
 
 
