@@ -5,8 +5,7 @@ Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoind
 <p align="center"><img src="https://64.media.tumblr.com/2350f50437f89d6a3327b5f44d80d33c/ed4bcc2fbb22d0a3-5b/s540x810/fcf58de2b1cc03bb8f73556382a9f10d7f5b95cb.gif" width="500"> 
 
 <p align="center">
-<h1 align="center">Hi there, thanks you for visiting</h1>
-<p align="center">
+<h1 align="center">Hi there, thanks you for visiting</h1><p align="center">
 ─────────────────────────────────────
 <br><p align="center">
 �<p align="center">
