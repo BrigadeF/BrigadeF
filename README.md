@@ -11,7 +11,7 @@ Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoind
 <p align="center">
 �
 <p align="center">
-| 🕸 | [@4po](https://github.com/4po)
+| 🕸 | a [@4po](https://github.com/4po)
 <p align="center">
 | 🕸 | [@BF4Cypher](https://github.com/BF4Cypher)
 <p align="center">
