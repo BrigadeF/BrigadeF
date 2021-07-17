@@ -15,7 +15,6 @@ Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoind
 🔎 From [@BF4Default](https://github.com/BF4Default)
 🔎 From [@FrapsTM](https://github.com/FrapseTM)
 🔎 From [@Vesah](https://github.com/Vesah)
-<p align="center">
 �
 
 
