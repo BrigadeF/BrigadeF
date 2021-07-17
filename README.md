@@ -25,7 +25,6 @@ Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoind
 
 
 🔎 From [@4po](https://github.com/4po)
-🔎 Instagram [@leonhski](https://www.instagram.com/menaceapo/)
 </a>
 https://github.com/brigadefantome
 
