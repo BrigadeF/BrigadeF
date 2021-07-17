@@ -6,7 +6,7 @@ Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoind
 
 <p align="center">
 ─────────────────────────────────────
-
+<br>
 <h1 align="center">Hi there, thanks you for visiting</h1>
 <p align="center">
 �
@@ -22,7 +22,7 @@ Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoind
 | 🕸 | [@Vesah](https://github.com/Vesah)
 <p align="center">
 �
-
+</a>
 https://github.com/brigadefantome
 
     --- Github de la  Brigade.
