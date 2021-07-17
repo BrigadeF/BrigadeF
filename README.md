@@ -6,6 +6,7 @@ Nous sommes une team INFO private pour le moment, si vous souhaitez nous rejoind
 
 <p align="center">
 <h1 align="center">Hi there, thanks you for visiting</h1>
+<p align="center">
 ─────────────────────────────────────
 <br>
 
